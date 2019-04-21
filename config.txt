@@ -1,0 +1,6 @@
+owner=362269489984831489
+prefix=S
+game=Type Shelp
+stayinchannel=true
+songinstatus=false
+token=NTY5NTIwNzk2NTAzMTEzNzM4.XLx1yw.xus4nr0RWxOexQ2oPVC9R1Xo-AI
